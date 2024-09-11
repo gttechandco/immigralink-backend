@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "about_us_sections",
+  "info": {
+    "singularName": "about-us-section",
+    "pluralName": "about-us-sections",
+    "displayName": "about us section"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

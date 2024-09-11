@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_destinations_sections",
+  "info": {
+    "singularName": "home-destinations-section",
+    "pluralName": "home-destinations-sections",
+    "displayName": "home destinations section"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "destinationsList": {
+      "type": "json"
+    }
+  }
+}

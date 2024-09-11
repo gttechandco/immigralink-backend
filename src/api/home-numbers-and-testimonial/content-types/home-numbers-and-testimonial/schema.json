@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_numbers_and_testimonials",
+  "info": {
+    "singularName": "home-numbers-and-testimonial",
+    "pluralName": "home-numbers-and-testimonials",
+    "displayName": "home numbers and testimonial"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "testimonials": {
+      "type": "json"
+    },
+    "numbers": {
+      "type": "json"
+    }
+  }
+}

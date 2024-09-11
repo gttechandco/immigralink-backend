@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "services_sections",
+  "info": {
+    "singularName": "services-section",
+    "pluralName": "services-sections",
+    "displayName": "hero-services section"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "serv1": {
+      "type": "json"
+    },
+    "serv2": {
+      "type": "json"
+    },
+    "serv3": {
+      "type": "json"
+    }
+  }
+}

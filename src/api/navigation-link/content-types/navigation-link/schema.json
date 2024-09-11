@@ -1,0 +1,42 @@
+{
+  "kind": "collectionType",
+  "collectionName": "navigation_links",
+  "info": {
+    "singularName": "navigation-link",
+    "pluralName": "navigation-links",
+    "displayName": "navigation link"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "link1": {
+      "type": "string"
+    },
+    "link2": {
+      "type": "string"
+    },
+    "link3": {
+      "type": "string"
+    },
+    "link4": {
+      "type": "string"
+    },
+    "link5": {
+      "type": "string"
+    },
+    "link6": {
+      "type": "string"
+    },
+    "link7": {
+      "type": "string"
+    },
+    "link8": {
+      "type": "string"
+    },
+    "link9": {
+      "type": "string"
+    }
+  }
+}
